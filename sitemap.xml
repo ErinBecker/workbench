@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ErinBecker.github.io/workbench/reference.html</loc>
-    <lastmod>2024-06-18T01:09:56.070Z</lastmod>
+    <loc>https://ErinBecker.github.io/workbench/faq.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
   </url>
   <url>
     <loc>https://ErinBecker.github.io/workbench/index.html</loc>
-    <lastmod>2024-06-18T01:09:56.070Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/faq.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/transition-guide.html</loc>
-    <lastmod>2024-06-18T01:09:56.074Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/contributor/pre-beta.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/contributor/flow.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
+    <lastmod>2024-06-25T01:09:33.104Z</lastmod>
   </url>
   <url>
     <loc>https://ErinBecker.github.io/workbench/contributor/beta.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/contributor/flow.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
   </url>
   <url>
     <loc>https://ErinBecker.github.io/workbench/contributor/releases.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
   </url>
   <url>
-    <loc>https://ErinBecker.github.io/workbench/contributor/index.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/contributor/testing.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/contributor/sandpaper.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/transition-schedule.html</loc>
-    <lastmod>2024-06-18T01:09:56.074Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ErinBecker.github.io/workbench/beta-phase.html</loc>
-    <lastmod>2024-06-18T01:09:56.062Z</lastmod>
+    <loc>https://ErinBecker.github.io/workbench/contributor/pre-beta.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
   </url>
   <url>
     <loc>https://ErinBecker.github.io/workbench/workflow-guide.html</loc>
-    <lastmod>2024-06-18T01:09:56.074Z</lastmod>
+    <lastmod>2024-06-25T01:09:33.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/transition-schedule.html</loc>
+    <lastmod>2024-06-25T01:09:33.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/transition-guide.html</loc>
+    <lastmod>2024-06-25T01:09:33.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/contributor/sandpaper.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/contributor/index.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/contributor/testing.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/beta-phase.html</loc>
+    <lastmod>2024-06-25T01:09:33.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ErinBecker.github.io/workbench/reference.html</loc>
+    <lastmod>2024-06-25T01:09:33.104Z</lastmod>
   </url>
 </urlset>
